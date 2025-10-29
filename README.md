@@ -17,9 +17,10 @@ graphql-task-api/
 
 npm init -y
 
+npm install --legacy-peer-deps
+
 npm install express apollo-server-express graphql mongoose dotenv
 
-npm install
 
 npm start
 
