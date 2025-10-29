@@ -21,7 +21,6 @@ npm install --legacy-peer-deps
 
 npm install express apollo-server-express graphql mongoose dotenv
 
-
 npm start
 
 Now open your browser and visit:
